@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ReloadTipView">
+        <attr name="tip_txt_size" format="dimension"/>
+        <attr name="action_txt_size" format="dimension"/>
+        <attr name="tip_txt_color" format="color"/>
+        <attr name="action_txt_color" format="color" />
+        <attr name="tip_txt_topmargin" format="dimension"/>
+        <attr name="action_txt_topmargin" format="dimension"/>
+        <attr name="content_minheigh" format="dimension"/>
+        <attr name="content_topmargin" format="dimension"/>
+
+        <attr name="notdata_icon" format="reference"/>
+        <attr name="notdata_tip_txt" format="string"/>
+        <attr name="notdata_actoin_txt" format="string"/>
+        <attr name="notnet_icon" format="reference"/>
+        <attr name="notnet_tip_txt" format="string"/>
+        <attr name="notnet_actoin_txt" format="string"/>
+        <attr name="error_icon" format="reference"/>
+        <attr name="error_tip_txt" format="string"/>
+        <attr name="error_actoin_txt" format="string"/>
+
+    </declare-styleable>
+
+</resources>
