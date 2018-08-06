@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/artifact.iml" filepath="$PROJECT_DIR$/artifact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reloadtipview.iml" filepath="$PROJECT_DIR$/.idea/reloadtipview.iml" />
       <module fileurl="file://$PROJECT_DIR$/reloadtipview/reloadtipview.iml" filepath="$PROJECT_DIR$/reloadtipview/reloadtipview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reloadtipview/reloadtipview-reloadtipview.iml" filepath="$PROJECT_DIR$/reloadtipview/reloadtipview-reloadtipview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-simplewidgets/sample-simplewidgets.iml" filepath="$PROJECT_DIR$/sample-simplewidgets/sample-simplewidgets.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-simplewidgets/sample-simplewidgets.iml" filepath="$PROJECT_DIR$/sample-simplewidgets/sample-simplewidgets.iml" />
     </modules>
   </component>
