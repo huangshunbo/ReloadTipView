@@ -15,12 +15,12 @@
         <item name="action_txt_color">#999999</item>
         <item name="tip_txt_topmargin">20dp</item>
         <item name="action_txt_topmargin">15dp</item>
-        <item name="content_minheigh">300dp</item>
+        <item name="content_minheigh">400dp</item>
         <item name="content_topmargin">-30dp</item>
 
         <item name="notdata_icon">@mipmap/default_no_data</item>
         <item name="notdata_tip_txt">真的暂无数据</item>
-        <item name="notdata_actoin_txt"></item>
+        <item name="notdata_actoin_txt">点击刷新</item>
         <item name="notnet_icon">@mipmap/default_no_network</item>
         <item name="notnet_tip_txt">网络不给力，请稍候重试</item>
         <item name="notnet_actoin_txt">点击刷新</item>
